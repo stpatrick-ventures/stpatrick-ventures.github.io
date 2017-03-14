@@ -1,0 +1,64 @@
+.logo-font {
+    font-family:'Raleway', sans-serif;
+    text-transform: uppercase;
+}
+
+#contacth2 {
+      padding-top: 20px;
+}
+
+.ventures-family{
+  width: 350px;
+
+}
+
+
+.social-links:not(.animated-effect-1) li.facebook a:hover, .colored.social-links li.facebook a, .social-links.animated-effect-1 li.facebook a:after, .btn.facebook {
+    background-color: #dd4b39; */
+    border-color: #dd4b39;
+    color: #fff;
+}
+
+.social-links:not(.animated-effect-1) li.twitter a:hover, .colored.social-links li.twitter a, .social-links.animated-effect-1 li.twitter a:after, .btn.twitter {
+    background-color: #FFFF33;
+    border-color: #FFFF33;
+    color: #fff;
+}
+.social-links:not(.animated-effect-1) li.googleplus a:hover, .colored.social-links li.googleplus a, .social-links.animated-effect-1 li.googleplus a:after, .btn.googleplus {
+    background-color:  #3b5998;
+    border-color: #3b5998;
+    color: #fff;
+}
+.social-links:not(.animated-effect-1) li.linkedin a:hover, .colored.social-links li.linkedin a, .social-links.animated-effect-1 li.linkedin a:after, .btn.linkedin {
+    background-color: #1f9123;
+    border-color: #1f9123;
+    color: #fff;
+  }
+
+  .social-links li a:hover {
+    background-color: transparent;
+    border-color: #777777;
+    color: #777777;
+}
+
+
+.social-links:not(.animated-effect-1) li.linkedin a:hover, .colored.social-links li.linkedin a, .social-links.animated-effect-1 li.linkedin a:after, .btn.linkedin {
+    background-color: #dd4b39;
+    border-color: #dd4b39;
+    color: #fff;
+}
+.social-links:not(.animated-effect-1) li.skype a:hover, .colored.social-links li.skype a, .social-links.animated-effect-1 li.skype a:after, .btn.skype {
+    background-color: #FFFF33;
+    border-color: #FFFF33;
+    color: #fff;
+}
+.social-links:not(.animated-effect-1) li.xing a:hover, .colored.social-links li.xing a, .social-links.animated-effect-1 li.xing a:after, .btn.xing {
+    background-color: #3b5998;
+    border-color: #3b5998;
+    color: #fff;
+}
+
+blue;#3b5998
+red;#dd4b39;
+yellow; #FFFF33
+green;#1f9123
